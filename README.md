@@ -1,0 +1,1 @@
+SmartShelf AI: AI-Powered Retail Space Optimization (see LinkedIn post for full details)
