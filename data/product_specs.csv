@@ -1,0 +1,6 @@
+SKU,Product_Name,Category,Width_cm,Height_cm,Depth_cm,Unit_Price
+BEV01,Beverages Product 1,Beverages,30,8,10,11.38
+BEV02,Beverages Product 2,Beverages,17,12,12,11.31
+SNA01,Snacks Product 1,Snacks,27,7,19,6.91
+SNA02,Snacks Product 2,Snacks,10,7,13,4.26
+DAI01,Dairy Product 1,Dairy,29,5,18,3.78
